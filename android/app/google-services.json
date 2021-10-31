@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248779250458",
+    "project_id": "nakhla-ce9d5",
+    "storage_bucket": "nakhla-ce9d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248779250458:android:9e334b4940345a0e6e2aa3",
+        "android_client_info": {
+          "package_name": "com.nakhla.food_court"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248779250458-bb2b8jm7h80cjv3upkos810vkumh0rjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz6ePK34iv_cXlQi6hhNiUlHi5xGBQ3mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248779250458-bb2b8jm7h80cjv3upkos810vkumh0rjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
