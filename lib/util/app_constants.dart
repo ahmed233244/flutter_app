@@ -3,6 +3,7 @@ import 'package:efood_multivendor/util/images.dart';
 
 class AppConstants {
   static const String APP_NAME = 'Nakhla';
+  static const String MAP_API_KEY = 'AIzaSyA5vAENfFphSxyt8IT0ObAH077pRoyvRIY';
   static const int APP_VERSION = 1;
 
   static const String BASE_URL = 'https://nakhla.cvctravel.tech';
